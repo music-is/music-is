@@ -1,2 +1,2 @@
 # music-is
-A place to store stuff and such
+a place to store stuff. not necessarily all related to the topic.
